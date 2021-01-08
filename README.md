@@ -1,8 +1,5 @@
 # PYTHON PASSWORD GENERATOR
 
-This code generate a random password with letters, numbers and symbols.
-When executing this code, you will choose whether to use only uppercase letters, lowercase letters, digits and symbols. You can use all of them or just one of them.
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -13,6 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 python  ^3.8
 
 ```
+# Description
+This code generate a random password with letters, numbers and symbols.
+When executing this code, you will choose whether to use only uppercase letters, lowercase letters, digits and symbols. You can use all of them or just one of them.
 
 ### Installing
 
